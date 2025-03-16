@@ -1,0 +1,16 @@
+#more{
+    float: right;
+    margin-top:0;
+    padding-top:0;
+}
+body{
+    font-family: monospace;
+}
+
+h2:hover{
+    color:limegreen;
+}
+
+li:hover{
+    color:limegreen;
+}
