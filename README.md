@@ -1,4 +1,6 @@
-# 🚀 Evangelos Gallos - Portfolio Website <br><em>"An exercise for the first part of the Meta Front-End Development Professional Certification."</em>
+# 🚀 Evangelos Gallos - Portfolio Website 
+
+<em>"An exercise for the first part of the Meta Front-End Development Professional Certification."</em>
 
 Welcome to my **portfolio website**, built as a practical exercise and hands-on experience in **Front-End Development**.  
 This project was created as part of my learning journey, showcasing my skills in **HTML, CSS, Bootstrap, and JavaScript**, while also integrating best practices for responsive design.  
