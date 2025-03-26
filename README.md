@@ -92,6 +92,4 @@ This project was a great hands-on experience, and I plan to continue expanding m
 If you're looking for a Front-End Developer or Internship Opportunities, feel free to reach out! 😃
 
 🔥 #FrontEnd #WebDevelopment #Bootstrap #JavaScript #HTML #CSS #Portfolio #React #UIUX
-markdown
-Copy
-Edit
+
